@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="400" height="175" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-s {
+				font-size: 25px; stroke-width: 0.63px;
+			}
+					</style>
+	</defs>
+	<g id="part" title="part_0" ie-ports="left:simulink*simulink*simulink,top:simulink,right:simulink,bottom:">
+		<text id="text" class="text font-size-s" x="163.19" y="59.12">
+			<tspan dx="0" dy="22.4" x="163.19">MRAC</tspan>
+			<tspan dx="0" dy="1.15em" x="163.19" style="white-space: pre;">  Yaw</tspan>
+		</text>
+	</g>
+</svg>

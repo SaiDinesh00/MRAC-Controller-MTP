@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="328" height="400" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-default {
+				font-size: 33px; stroke-width: 0.82px;
+			}
+					</style>
+	</defs>
+	<g id="part" title="part_0" ie-ports="left:,top:,right:simulink*simulink*simulink,bottom:">
+		<text id="text" class="text font-size-default" x="57.6" y="162.63">
+			<tspan dx="0" dy="29.6" x="57.6" style="white-space: pre;">     Gravity</tspan>
+			<tspan dx="0" dy="1.15em" x="57.6">Compensation</tspan>
+		</text>
+	</g>
+</svg>

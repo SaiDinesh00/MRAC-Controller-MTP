@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="400" height="358" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-s {
+				font-size: 50px; stroke-width: 1.25px;
+			}
+					</style>
+	</defs>
+	<g id="part" title="part_0" ie-ports="left:simulink*simulink*simulink,top:simulink,right:simulink,bottom:">
+		<text id="text" class="text font-size-s" x="126.39" y="122.25">
+			<tspan dx="0" dy="45.6" x="126.39">MRAC</tspan>
+			<tspan dx="0" dy="1.15em" x="126.39" style="white-space: pre;"> Pitch</tspan>
+		</text>
+	</g>
+</svg>

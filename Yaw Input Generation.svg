@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="280" height="400" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-default {
+				font-size: 28px; stroke-width: 0.7px;
+			}
+					</style>
+	</defs>
+	<g id="part" title="part_0" ie-ports="left:,top:,right:simulink*simulink*simulink*simulink,bottom:">
+		<text id="text" class="text font-size-default" x="67.15" y="168.3">
+			<tspan dx="0" dy="25.6" x="67.15" style="white-space: pre;">   Variable</tspan>
+			<tspan dx="0" dy="1.15em" x="67.15">Assignment</tspan>
+		</text>
+	</g>
+</svg>
